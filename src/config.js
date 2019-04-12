@@ -1,0 +1,11 @@
+export const MOVING_AVG_DAYS = 20;
+export const AXIS_WIDTH = 40;
+export const AXIS_LINE_WIDTH = 1.5;
+export const TICK_LENGTH = 5;
+export const CIRCLE_RADIUS = 4;
+export const FILL_COLOR = '#ffa500';
+export const TEXT_COLOR = '#000';
+export const LINE_PLOT_WIDTH = 0.5;
+export const FONT = '11px serif';
+export const TEXT_BASELINE = 'top';
+export const HIGHLIGHT_LINE_WIDTH = 3;
