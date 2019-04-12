@@ -2,4 +2,4 @@
 
 #### Shows a 20 day moving average of the IBM stock
 
-Plots three months of the closing averege price for IBM stock. Points can be clicked to show more details.
+Plots three months of the closing average price for IBM stock. Points can be clicked to show more details.
